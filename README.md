@@ -1,4 +1,4 @@
-# Retail Revenue Leakage Detection
+# Sales Anomaly Detection
 
 **Detect hidden revenue leakages in retail transactions using machine learning and interpretable analytics.**
 
