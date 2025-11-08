@@ -5,7 +5,6 @@
 ---
 
 ## Table of Contents
-
 * [Project Overview](#project-overview)
 * [Workflow](#workflow)
 * [Repository Structure](#repository-structure)
