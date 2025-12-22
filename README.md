@@ -35,7 +35,7 @@ Retailers often face revenue leakage from fraud, human error, or process ineffic
 
 **3. Feature Engineering & Preprocessing**
 
-* Encode categorical variables with `OneHotEncoder` or `pd.get_dummies()`.
+* Encode categorical variable with `OneHotEncoder` or `pd.get_dummies()`.
 * Normalize / scale numerical features when required.
 * Create derived features (transaction velocity, rolling aggregates, categorical bucketing).
 
